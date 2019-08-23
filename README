@@ -1,0 +1,8 @@
+This project is to create an evaluator that will take an equation and return the result.
+
+The equation should be able to take +, -, *, / as operators. Should follow the basic rules of PEMDAS. Things that should
+not be supported are:
+
+- Double Operators
+- Back to Back Parenthesis (such as '(xx)(xx)'
+- Variables
