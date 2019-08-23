@@ -6,3 +6,19 @@ not be supported are:
 - Double Operators
 - Back to Back Parenthesis (such as '(xx)(xx)'
 - Variables
+
+This project is simply for fun. I am working on exploring more about the Python language.
+
+The process should be broken into a few items:
+
+Validation
+- Use the validation class to create an object using an equation, and push it through each rule defined in that class.
+If none of the rules are broken, the equation will be passed back out into the main program.
+
+Parsing
+- Use the parser class to parse the validated equation into a dictionary of steps.
+
+I need to work on this.
+
+Evaluation
+- Use the Evaluator class to evaluate the parsed equation and return a single value.
