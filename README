@@ -22,3 +22,6 @@ I need to work on this.
 
 Evaluation
 - Use the Evaluator class to evaluate the parsed equation and return a single value.
+   - step throught parsed list and find open paren
+   - Record through open paren till found close paren
+   - If found open paren, restart process
